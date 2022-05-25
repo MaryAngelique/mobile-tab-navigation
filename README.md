@@ -17,11 +17,11 @@
 
 Users should be able to:
 
-#### - 
+#### - See a virtual mobile device
 
-#### - 
+#### - Click through navigation bar
 
-#### - 
+#### - See different "screens" when the navigation button/icon is clicked
 
 ### Features
 
@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [ GitHub Solution](https://github.com/MaryAngelique/mobile-tab-navigation)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
@@ -42,12 +42,9 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - VanillaJS
-- Asynchronous JavaScript
-- API Request
 - CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
-- Media Queries
 
 ## Author
 
